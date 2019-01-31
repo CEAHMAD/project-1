@@ -12,7 +12,7 @@ A basic Tic Tac Toe game built using HTML/JavaScript/CSS/jQuery.
 ## Challenges.
 1-  CSS is the most difficult part . You’ll change one thing, two things, 3 things and nothing change. Then you make one more change and all things break.
 
-2-  Javasicript was tje favorite pare in this project , JavaScript make it easy for you to make mistakes, which speeds up your learning curve and code can be tested in the browser.
+2-  Javasicript was the favorite part in this project , JavaScript make it easy for you to make mistakes, which speeds up your learning curve and code can be tested in the browser.
 
 
 ## The approach taken.
